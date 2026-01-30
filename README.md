@@ -5,7 +5,7 @@ Study of Set in python.
 1. A set is a collection of unique elements. Set is unordered so indexing is not possible.It does not allow duplicates and elements are mutable, but set items must be immutable (numbers, strings, tuples).
 2. Set is created by curley brackets {}.
 3. One cannot use indexing in set it can be used in tuple and list only.
-4. If one has given 1 and true in a set it and if we print its set it will give either of the value.
+4. If one has given 1 and true in a set and if we print its set it will give either of the value.
 5. Element can be added by using add. example- name_of_the_set.add(element_to_be_added).
 6. Element can be removed by using remove. example-name_of_the_set.remove(element_to_be_removed).
 7. Union of elements-The union of two sets is a set that contains all elements that are in either set or in both set. Symbol-|.
