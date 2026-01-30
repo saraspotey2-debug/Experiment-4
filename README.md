@@ -17,13 +17,9 @@ Study of Set in python
 
 # Algorithm-1
 1.Start.
-
 2.To create a list.
-
-3. To store the list in another set using set.
-
-4. To print the set.
-
+3.To store the list in another set using set.
+4.To print the set.
 5.End.
 
 # Algorithm-2
