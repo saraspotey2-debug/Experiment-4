@@ -33,7 +33,7 @@ Study of Set in python.
 1. Start.
 2. To create 2 sets of names.
 3. To print the common names of both the sets.
-4. To print the names of those are only in one club. 
+4. To print the names of those who are only in one club. 
 5. End.
 
 # Algorithm of Question-4
