@@ -17,7 +17,7 @@ Study of Set in python.
 
 # Algorithm of Question-1
 1. Start.
-2. To create a list.
+2. To create a list of names.
 3. To store the list in another set using set.
 4. To print the set.
 5. End.
