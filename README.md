@@ -16,15 +16,15 @@ Study of Set in python
 12. If we create a list, we can convet that list into set by creating another set. Syntax-set(Name_of_the_list)
 
 # Algorithm-1
-1.Start.
+1. Start.
 
-2.To create a list.
+2. To create a list.
 
-3.To store the list in another set using set.
+3. To store the list in another set using set.
 
-4.To print the set.
+4. To print the set.
 
-5.End.
+5. End.
 
 # Algorithm-2
 1. Start.
