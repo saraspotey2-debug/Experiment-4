@@ -1,6 +1,6 @@
 # Experiment-4
 # Aim
-Study of Set in python
+Study of Set in python.
 # Theory
 1. A set is a collection of unique elements. Set is unordered so indexing is not possible.It does not allow duplicates and elements are mutable, but set items must be immutable (numbers, strings, tuples).
 2. Set is created by curley brackets {}.
