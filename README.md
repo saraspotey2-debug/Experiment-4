@@ -38,7 +38,7 @@ Study of Set in python.
 
 # Algorithm of Question-4
 1. Start.
-2. To create the set of all students.
+2. To create the set of names of all students.
 3. To crete the set of present students.
 4. To print the names of absent students using difference.
 5. End.
